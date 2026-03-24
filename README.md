@@ -6,6 +6,8 @@ https://bitcoincore.org
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
 
+Zod was here
+
 What is Bitcoin Core?
 ---------------------
 
